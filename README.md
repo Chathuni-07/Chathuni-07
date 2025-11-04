@@ -5,8 +5,11 @@ Software Engineering Undergraduate
 
 ## 🌸 About Me
 🎓 As a Software Engineering undergraduate at NIBM Sri Lanka, I’m on a continuous journey of learning and growth.
+
 💡 I’m fascinated by how AI, data, and software systems can be used to solve everyday challenges.
+
 🌱 My mission is to gain hands-on experience, contribute to real-world projects, and evolve into a skilled Full-Stack Developer ready for industry challenges.
+
 
 
 
