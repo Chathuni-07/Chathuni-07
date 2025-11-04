@@ -44,6 +44,17 @@ Software Engineering Undergraduate
 
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Chathuni-07’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathuni-07&show_icons=true&theme=radical&hide_border=false&count_private=true)](https://github.com/Chathuni-07)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathuni-07&layout=compact&theme=radical&hide_border=false)](https://github.com/Chathuni-07)
+
+</div>
+
+
 
 
 
