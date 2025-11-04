@@ -7,7 +7,7 @@ Software Engineering Undergraduate
 🎓 I'm a 2nd-year Software Engineering undergraduate at **NIBM Sri Lanka**, passionate about building innovative solutions.  
 💡 Currently focusing on **software Development** and exploring **AI-powered systems**. 
 
-**🧠 What I’m Currently Up To**
+## 🌸 What I'm Currently up to
 
 💻 Building personal projects to strengthen my understanding of full-stack development
 
